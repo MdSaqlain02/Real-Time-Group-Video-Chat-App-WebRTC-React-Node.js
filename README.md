@@ -8,10 +8,10 @@ A Zoom-like real-time group video chat application built using **WebRTC**, **Rea
 
 
 ### 📸 Screenshots
-![Home Page](<img width="958" height="662" alt="Screenshot 2025-01-02 113116" src="https://github.com/user-attachments/assets/32d186bc-a002-4847-ac35-2c522e9a1d35" />)
-![Video Chat](<img width="1897" height="875" alt="Screenshot 2024-12-06 065532" src="https://github.com/user-attachments/assets/5b19c03e-e950-406f-b7d5-35ebc2a4aa01" />
-)
-
+![Home Page](https://drive.google.com/file/d/1n3hongmtocordujjJiXZLdr5Jxq8GmpC/view?usp=drive_link)
+![Video Chat](https://drive.google.com/file/d/1n3hongmtocordujjJiXZLdr5Jxq8GmpC/view?usp=drive_link )
+![Host Page](https://drive.google.com/file/d/1n3hongmtocordujjJiXZLdr5Jxq8GmpC/view?usp=drive_link)
+![Join Page](https://drive.google.com/file/d/1n3hongmtocordujjJiXZLdr5Jxq8GmpC/view?usp=drive_link)
 [🎥 Watch Demo Video]( https://drive.google.com/file/d/199Cu4tbMTLWGFp3k-FtR0SAl9bkWoG8T/view?usp=drivesdk )
 
 ## Features
