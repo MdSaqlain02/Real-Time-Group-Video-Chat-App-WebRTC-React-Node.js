@@ -2,6 +2,18 @@
 
 A Zoom-like real-time group video chat application built using **WebRTC**, **React**, **Node.js**, and **Socket.IO**. This project demonstrates peer-to-peer video communication and real-time chat using modern web technologies.
 
+## 🔍 Demo
+
+**⚠️ Live demo not hosted due to peer-to-peer restrictions on unsecured connections. Please clone and run locally.**
+
+
+### 📸 Screenshots
+![Home Page](<img width="958" height="662" alt="Screenshot 2025-01-02 113116" src="https://github.com/user-attachments/assets/32d186bc-a002-4847-ac35-2c522e9a1d35" />)
+![Video Chat](<img width="1897" height="875" alt="Screenshot 2024-12-06 065532" src="https://github.com/user-attachments/assets/5b19c03e-e950-406f-b7d5-35ebc2a4aa01" />
+)
+
+[🎥 Watch Demo Video]( https://drive.google.com/file/d/199Cu4tbMTLWGFp3k-FtR0SAl9bkWoG8T/view?usp=drivesdk )
+
 ## Features
 - ✅ Enables peer-to-peer video, audio, and chat communication without the need for a centralized server, using direct browser connections via WebRTC
 - ✅ One-click video chat room creation
@@ -44,16 +56,24 @@ A Zoom-like real-time group video chat application built using **WebRTC**, **Rea
 git clone https://github.com/MdSaqlain02/Real-Time-Group-Video-Chat-App-WebRTC-React-Node.js.git
 cd Real-Time-Group-Video-Chat-App-WebRTC-React-Node.js
 
-## 🔍 Demo
+2. Install dependencies
+# For the server
+cd server
+npm install
 
-**⚠️ Live demo not hosted due to peer-to-peer restrictions on unsecured connections. Please clone and run locally.**
+# For the client
+cd ../client
+npm install
 
+3. Run the application
+Start the backend:
+cd server
+npm start
 
-### 📸 Screenshots
-![Home Page](<img width="958" height="662" alt="Screenshot 2025-01-02 113116" src="https://github.com/user-attachments/assets/32d186bc-a002-4847-ac35-2c522e9a1d35" />)
-![Video Chat](<img width="1897" height="875" alt="Screenshot 2024-12-06 065532" src="https://github.com/user-attachments/assets/5b19c03e-e950-406f-b7d5-35ebc2a4aa01" />
-)
+Start the frontend:
+cd ../client
+npm start
 
-[🎥 Watch Demo Video]( https://drive.google.com/file/d/199Cu4tbMTLWGFp3k-FtR0SAl9bkWoG8T/view?usp=drivesdk )
+The app will be available at http://localhost:3000
 
 
