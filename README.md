@@ -1,4 +1,4 @@
-# Real-Time Group Video Chat App 💬🎥 demo-( https://drive.google.com/file/d/199Cu4tbMTLWGFp3k-FtR0SAl9bkWoG8T/view?usp=drivesdk )
+# Real-Time Group Video Chat App 💬🎥 
 
 A Zoom-like real-time group video chat application built using **WebRTC**, **React**, **Node.js**, and **Socket.IO**. This project demonstrates peer-to-peer video communication and real-time chat using modern web technologies.
 
@@ -6,12 +6,6 @@ A Zoom-like real-time group video chat application built using **WebRTC**, **Rea
 
 **⚠️ Live demo not hosted due to peer-to-peer restrictions on unsecured connections. Please clone and run locally.**
 
-
-### 📸 Screenshots
-![Home Page](https://drive.google.com/file/d/1Br79oWdWzaZi0Tfe_dPW-O4spBwnXgE3/view?usp=drive_link)
-![Video Chat](https://drive.google.com/file/d/1Y88L4GX5-YqgVqfyfNNoDLzG1PyEtpd4/view?usp=drive_link)
-![Host Page](https://drive.google.com/file/d/1g39xL_JHLLJh424m8EwrXZ5P8E3tEHml/view?usp=sharing)
-![Join Page](https://drive.google.com/file/d/1n3hongmtocordujjJiXZLdr5Jxq8GmpC/view?usp=drive_link)
 [🎥 Watch Demo Video]( https://drive.google.com/file/d/199Cu4tbMTLWGFp3k-FtR0SAl9bkWoG8T/view?usp=drivesdk )
 
 ## Features
